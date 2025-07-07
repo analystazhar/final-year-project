@@ -1,0 +1,1 @@
+"hello azhar! you have successfuly configure your git repo form remote to local  machine" 
